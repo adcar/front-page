@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100&display=swap');
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    font-size: 42pt;
+    color: #BBCE02;
+}
+
+img {
+    max-height: 300px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
